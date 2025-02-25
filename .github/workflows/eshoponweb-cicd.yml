@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 3da842d5-8a55-4002-8993-a23456d62991
-  WEBAPP-NAME: eshoponweb-webapp-MTowersLAB
+  WEBAPP-NAME: eshoponweb-MTowersLAB
 
 
 jobs:
